@@ -74,8 +74,6 @@ Please choose an option
 3. Arithmetic Expression Evaluation
 4. Exit
 
-```
-```
 Enter your choice: 
 3
 Enter Arithmetic expression:
