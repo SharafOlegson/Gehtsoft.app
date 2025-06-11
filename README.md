@@ -1,5 +1,5 @@
 # Gehtsoft.app
-#Console-based Java application "Gehtsoft Arithmetic Evaluator"
+Console-based Java application "Gehtsoft Arithmetic Evaluator"
 
 ## English
 
@@ -78,7 +78,6 @@ Enter your choice:
 Enter Arithmetic expression:
 (1 + 2) * 8
 Result: 24.0
-
 ```
 Enter your choice: 
 1
@@ -88,7 +87,6 @@ Enter text to encrypt:
 Sharaf
 Enter shift value: 5
 Result: Xmfwfk
-
 ```
 Enter your choice: 
 2
@@ -100,7 +98,6 @@ Choose shift method (1- with shift value, 2- without shift value):
 1
 Enter shift value: 5
 Result: Sharaf
-
 ```
 ## Русский
 
@@ -130,7 +127,7 @@ mvn exec:java -Dexec.mainClass="Main"
 ### Словарь классов и методов
 
 #### Главный класс
-- `Main`: Точка входа, обрабатывает ввод пользователя.https://github.com/SharafOlegson/Gehtsoft.app/blob/main/README.md
+- `Main`: Точка входа, обрабатывает ввод пользователя.
 
 #### Константы
 - `Alphabet`: Определяет допустимые символы операций.
