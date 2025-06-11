@@ -64,6 +64,7 @@ Alternatively, import the Maven project into IntelliJ IDEA and run Main.java.
 
 
 ### Examples of Usage / Примеры использования
+
 ```
 Сonsole menu:
 Welcome to Gehtsoft Technical Assessment
@@ -74,11 +75,13 @@ Please choose an option
 4. Exit
 
 ```
+```
 Enter your choice: 
 3
 Enter Arithmetic expression:
 (1 + 2) * 8
 Result: 24.0
+```
 ```
 Enter your choice: 
 1
@@ -88,6 +91,7 @@ Enter text to encrypt:
 Sharaf
 Enter shift value: 5
 Result: Xmfwfk
+```
 ```
 Enter your choice: 
 2
@@ -100,6 +104,7 @@ Choose shift method (1- with shift value, 2- without shift value):
 Enter shift value: 5
 Result: Sharaf
 ```
+
 ## Русский
 
 ### Описание проекта
