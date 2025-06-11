@@ -63,7 +63,8 @@ Alternatively, import the Maven project into IntelliJ IDEA and run Main.java.
 - `ArithmeticEvaluatorComponent.getPriority(String operator)`: Returns the priority level of an operator.
 
 
-### Examples of Usage / Примеры использования 
+### Examples of Usage / Примеры использования
+```
 Сonsole menu:
 Welcome to Gehtsoft Technical Assessment
 Please choose an option
